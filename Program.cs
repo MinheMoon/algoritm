@@ -145,4 +145,43 @@ public class Program
         return 0;
     }
 
+
+    public static int QuickSort(int[] arr, int leftIndex, int rightIndex)
+    {
+        var i = leftIndex;
+        var j = rightIndex;
+        var pivot = arr[leftIndex];
+
+        while(i<j)
+        {
+            while( arr[i]<pivot)
+            {
+                i++;
+            }
+            while( arr[j]>pivot)
+            {
+                j--;
+            }
+
+            if(i<=j)
+            {
+                int temp=arr[i];
+                arr[i]=arr[j];
+                arr[j]=temp;
+                i++;
+                j++;
+
+            }
+        }
+        if(leftIndex<j){
+            QuickSort(arr, leftIndex, j);
+        }
+
+        if(i<rightIndex){
+            QuickSort(arr, rightIndex, i);
+        }
+
+        return arr[];
+    }
+
 }
