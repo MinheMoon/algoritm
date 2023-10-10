@@ -1,0 +1,15 @@
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/bin/Debug/net6.0/MyConsoleApp
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/bin/Debug/net6.0/MyConsoleApp.deps.json
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/bin/Debug/net6.0/MyConsoleApp.runtimeconfig.json
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/bin/Debug/net6.0/MyConsoleApp.dll
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/bin/Debug/net6.0/ref/MyConsoleApp.dll
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/bin/Debug/net6.0/MyConsoleApp.pdb
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.csproj.AssemblyReference.cache
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.AssemblyInfoInputs.cache
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.AssemblyInfo.cs
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.dll
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/obj/Debug/net6.0/ref/MyConsoleApp.dll
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.pdb
+/home/student/Стільниця/cs/myConsoleApp/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.genruntimeconfig.cache
